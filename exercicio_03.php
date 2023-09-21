@@ -13,6 +13,5 @@
 
         echo "A área do quadrado de lado " . $comprimentoLado . " metros é " . $areaQuadrado . " metros quadrados.";
     ?>
-
 </body>
 </html>

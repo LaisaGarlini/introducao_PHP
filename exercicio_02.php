@@ -15,7 +15,5 @@
             echo "O valor não é divisível por 2";
         }
     ?>
-
-    
 </body>
 </html>

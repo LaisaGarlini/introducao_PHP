@@ -22,6 +22,5 @@
 
         echo '<p style="color:' . $cor . ';">A soma dos valores é: ' . $valor1 + $valor2 + $valor3 . '</p>';
     ?>
-    
 </body>
 </html>

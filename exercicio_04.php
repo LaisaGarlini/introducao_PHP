@@ -18,6 +18,5 @@
 
         echo "<$tagHTML>$fraseResultado</$tagHTML>";
     ?>
-
 </body>
 </html>
